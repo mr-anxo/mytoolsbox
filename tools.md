@@ -3,9 +3,9 @@
 | **Domaine**               | **Technologies / Outils** |
 |---------------------------|---------------------------|
 | **DEVOPS / AUTOMATISATION** | ANSIBLE                 |
-|                           | GITLAB CI/CD             |
-|                           | RUNDECK                 |
-|                           | VAGRANT                 |
+|                           | GITLAB CI/CD              |
+|                           | RUNDECK                   |
+|                           | VAGRANT                   |
 | **SUPERVISION**            | CENTREON                |
 |                           | PROMETHEUS              |
 |                           | ELK                     |
@@ -27,3 +27,8 @@
 | **PROXY / REVERSE PROXY**  | HAPROXY                 |
 |                           | APACHE                  |
 |                           | TRAEFIK                 |
+| **MESSAGERIE**            | ZIMBRA                 |
+|                           | BLUEMIND                 |
+|                           | CARBONIO                 |
+|                           | KOLAB                 |
+
